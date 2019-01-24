@@ -1,4 +1,4 @@
-#include <iostream>//HOw to input space//cin.getline(name,30)//getline(cin,name)
+#include <iostream>//HOw to input space//cin.getline(name,30)//getline(cin,name)//Testing Git
 #include <string.h>
 using namespace std;
 
